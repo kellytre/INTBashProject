@@ -96,3 +96,4 @@ export PATH=$JAVA_HOME/bin:$PATH
 if [ -f /etc/bashrc ]; then
     source /etc/bashrc
 fi
+
